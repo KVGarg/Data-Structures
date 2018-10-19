@@ -1,0 +1,4 @@
+3rd         CS-301          Data_Structures             50             30             50
+2nd         CS-201          Data_Stru	                50             30             50
+3rd         CS-302          Daes                        50             30             50
+2nd         CS-202          Data_Stru                   50             30             50
